@@ -1,0 +1,11 @@
+1. HTTP
+2. To answer this question,
+    06:56:56,202391 time for HTTP GET
+    06:56:56,206347 time for HTTP OK
+   So it took approximately 0.003956 second
+3. 128.119.245.12	is the address for the gaia 
+   10.62.28.254	is the address for the computer
+4. User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0\r\n
+   So, the answer for this question is Microsoft Edge
+5. Destination Port: 80
+6. Check folder 
